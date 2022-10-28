@@ -21,6 +21,6 @@
   
 @font-face {
   font-family: "MeteorStrikeRegular";
-  src: url('webFonts/MeteorStrikeRegular/font.woff2') format('woff2'), url('webFonts/MeteorStrikeRegular/font.woff') format('woff');
+  src: url('https://github.com/hattorishion/fonteoficial/blob/main/font.woff2') format('woff2'), url('https://cdn.statically.io/gh/hattorishion/fonteoficial/main/font.woff') format('woff');
 }
 
